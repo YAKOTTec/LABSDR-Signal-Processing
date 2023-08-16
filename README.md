@@ -1,4 +1,4 @@
-[**LABSDR: Signal Processing in GRC.**](https://youtube.com/playlist?list=PLZIQVCPY0T5YgppsTsW3EgYIT9UDQhvdG)
+[**LABSDR: Signal Processing.**](https://youtube.com/playlist?list=PLZIQVCPY0T5YgppsTsW3EgYIT9UDQhvdG)
 
 *GNU Radio Companion v3.8*
 
@@ -6,7 +6,7 @@
 
 ...
 
-[**LABSDR: Procesamiento de Señales en GRC.**](https://youtube.com/playlist?list=PLZIQVCPY0T5YgppsTsW3EgYIT9UDQhvdG)
+[**LABSDR: Procesamiento de Señales.**](https://youtube.com/playlist?list=PLZIQVCPY0T5YgppsTsW3EgYIT9UDQhvdG)
 
 *GNU Radio Companion v3.8*
 
